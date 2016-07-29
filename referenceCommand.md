@@ -4,4 +4,4 @@
 
 2. hdfs operation:
 
-[click here](http://www.cnblogs.com/gpcuster/archive/2010/06/04/1751538.html)
+[click here](https://segmentfault.com/a/1190000002672666#articleHeader4)
